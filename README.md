@@ -12,6 +12,9 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25">
 <img src="https://vectorseek.com/wp-content/uploads/2023/08/Matlab-Logo-Vector.svg-.png" height="20">
 
+### Текущие задачи:
+1. Завершить курс "Аналитик Данных" Яндекс Практикума (до 01.2024)
+
 <!--
 **alpegvo/alpegvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
