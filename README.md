@@ -1,5 +1,5 @@
 ### Привет! 👋
-<p> <a href="https://www.linkedin.com/in/alisa-gvozdeva-8a39559b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.researchgate.net/profile/Alisa-Gvozdeva-2"><img src="https://github.com/alpegvo/alpegvo/assets/136235473/7dc7ce4d-225d-44da-b89b-1021e9b4f4d4" height=25></a>
+<p> <a href="https://www.linkedin.com/in/alisa-gvozdeva-8a39559b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.researchgate.net/profile/Alisa-Gvozdeva-2"><img src="https://github.com/alpegvo/alpegvo/assets/136235473/7dc7ce4d-225d-44da-b89b-1021e9b4f4d4" height=25></a> 
 
 <!--
 **alpegvo/alpegvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
