@@ -1,4 +1,4 @@
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpegvo&theme=github">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpegvo&theme=vue">
 
 ### Социальные сети:
 <p>
@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="25"> <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="25">
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25">
-<p>
+<img src="https://vectorseek.com/wp-content/uploads/2023/08/Matlab-Logo-Vector.svg-.png" height="20">
 
 <!--
 **alpegvo/alpegvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
