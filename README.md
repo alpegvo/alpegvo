@@ -1,6 +1,7 @@
-### Статистика:
+### Свзязь:
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpegvo&theme=vue">
+alisap.gvozdeva@gmail.com
+https://t.me/alpegvo
 
 ### Социальные сети:
 <p>
